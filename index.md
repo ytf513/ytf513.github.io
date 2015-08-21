@@ -20,6 +20,7 @@ title: Welcome
 - [新浪博客](http://blog.sina.com.cn/ytf513)
 - [Linkedin](http://cn.linkedin.com/in/alexyean)
 - [Google+](https://plus.google.com/104604479972610194575)
+- [Github](https://github.com/ytf513/)
 
 
 ## 关于博客平台
