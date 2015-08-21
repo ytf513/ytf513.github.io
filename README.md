@@ -1,6 +1,6 @@
 ### Alex Yean's Blog
 
-地址：[ytf513.github.io](http://ytf513.github.io),Fork自suyan(https://github.com/suyan),特别感谢
+地址：[ytf513.github.io](http://ytf513.github.io),Fork自suyan(https://github.com/suyan) , 特别感谢
 
 ### 安装说明
 
