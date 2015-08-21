@@ -1,3 +1,5 @@
+这里是小尹的博客
+
 permalink: /:year/:month/:day/:title.html
 markdown: kramdown
 pygments: true
@@ -30,4 +32,4 @@ ga:
 
 # disqus 设置
 disqus:
-  shortname: 
+  shortname: alexyean
