@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Google时代工作方法之工具的妙用
-category: 技术,随笔
+category: 技术
 tags: 方法,工具
 keywords: 方法,工具
 description:

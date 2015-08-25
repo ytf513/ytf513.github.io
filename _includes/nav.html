@@ -16,10 +16,11 @@
   </nav> <!-- end #tags -->
 
   <div id="posts-list">
-    <form action="" id="search-form">
+    <form id="search-form" action="http://ytf513.github.io/search.html" method="get">
       <a href="/index.html" id="mobile-avatar" style="background-image:url({{ site.avatar }})"></a>
       <!-- NOTE: input field is disabled by default -->
-      <input id="search-input" type="text" placeholder="Search..." disabled >
+      <input type="hidden" name="q" value="site:ytf513.github.io">
+      <input id="search-input" type="text" placeholder="Search..." name="q" >
     </form>
 
     <nav id="pl__container">
