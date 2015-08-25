@@ -14,9 +14,9 @@ description:
 
 1. 安装Jekyll之前，确保系统中已经安装：
 
-- Ruby(>=1.9.2)
-- RubyGems
-- Nodejs(之后安装也可以)
+> - Ruby(>=1.9.2)
+> - RubyGems
+> - Nodejs(之后安装也可以)
 
 2. 安装Jekyll请使用`gem install jekyll`命令
 
