@@ -16,3 +16,10 @@
 - 三栏布局（master分支，基于[3-Jekyll](https://github.com/P233/3-Jekyll)）
 - 三栏布局 (bootstrap-based分支，基于Bootstrap)
 - 单栏布局（first-ui分支，基于Bootstrap）
+
+### 新增搜索和404页面说明
+
+- 通过Google Custome Search功能实现，站内搜索
+- 定制腾讯寻人404页面的功能
+
+具体内容请参考博文《为博客新增了站内搜索和404页面定制》

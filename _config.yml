@@ -31,3 +31,7 @@ ga:
 # disqus 设置
 disqus:
   shortname: alexyean
+
+# 站内搜索信息
+search:
+  action_url: http://ytf513.github.io/search.html
