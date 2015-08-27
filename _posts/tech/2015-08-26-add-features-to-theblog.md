@@ -22,8 +22,9 @@ description:
 ### 修改`_includes/nav.html <form id="search-form">`代码如下：
 
 ```js
-<form id="search-form" action="{{site.search.action_url}}" method="get">
-      <a href="/index.html" id="mobile-avatar" style="background-image:url({{ site.avatar }})"></a>
+<form id="search-form" action="{\{site.search.action_url\}}" method="get">
+      <a href="/index.html" id="mobile-avatar" style="background-image:url({\{site.avatar \}})"></a>
+      <!-- {{}} 附近的‘\’不需要 -->
       <!-- NOTE: input field is disabled by default -->
       <input id="search-input" type="text" placeholder="Search..." name="q" >
 </form>
